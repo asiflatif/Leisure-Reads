@@ -12,17 +12,18 @@ in this book.
 The book follows a story to create a scenario for the readers to understand the message clearly. It starts of with Steve, the protagonist, finding himself at
 a difficult situation in his career. Seeing no escape from imminent termination, he starts blaming his manager, co-workers right when he meet another character, Cayla, 
 who appears to have all the answers to his questions and leads him to become a better leader. They focus three main points of self leadership:
-#### 1. Challenge Assumed Constraints 
+#### Challenge Assumed Constraints 
 
-"An Assumed Constraint Is A Belief You Have, Based On Past Experience, That Limits Your Current And Future Experiences." 
+> "An Assumed Constraint Is A Belief You Have, Based On Past Experience, That Limits Your Current And Future Experiences." 
+
 It is basically those tasks that we find difficult to start ony because of a bad experience with something similar. One can't simply predict an outcome
 without proceeding with the discussion. It better to discussion over the requirements, findings and ask for help is required. The writer uses the classic example 
 of elephant thinking where an adult elephant tends to ignore and believe its impossible for it to break the chain it has been tied to since childhood.  
 
-#### 2. Celebrate Your Points of Power
+#### Celebrate Your Points of Power
 
 
-#### 3. Collaborate for Success
+#### Collaborate for Success
 
 ### 2. Dopamine Detox
 
@@ -35,8 +36,6 @@ of elephant thinking where an adult elephant tends to ignore and believe its imp
 ### 4. The New One Minute Manager
 
 #### Author(s) : Ken Blanchard & Spencer Johnson
-
-One Minute Goals
 
 This book is very specific to its message. It is a good read but I have doubts that it will work on all work cultures around the world, but nonetheless, managers (non-micromanagers!) could make an effort to try out the points mentioned. This book is an adaptable of The One Minute Manager, published back in 1986. Since then, the work culture has changed so much, which is why I think the writers adjusted/tweaked their primary message(s) a bit. 
 
