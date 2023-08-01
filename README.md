@@ -78,6 +78,37 @@ Most companies do the performance review once a year. Till then the employee has
 - Pause and let them realize
 - Remind them they are better than the mistake. 
 
-### 5. The Psychology of Money
+### 5. Kaizen: The Japanese Method for Transforming Habits One Small Step at a Time
+
+#### Author(s) : Sarah Harvey
+
+Kaizen is one of the few Japanese self improvement concepts that I found practical, and can be applied to any daily work/practice. It focuses on gradual improvement and emphasizes the importance of starting by assessing one's habits.
+
+Some key takeaways from the book are (unordered):
+1. Do a little everyday: wanna setup a morning walk routine but can't wake-up early? why not set the alarm 1 minute earlier everyday and after a month you'll early by half-an-hour!
+2. Try to setup a routine (could be a mindmap) with incremental progress towards your goal/objective.
+3. Try to keep a track of your progress. May even keep notes in a journal. 
+4. Be ready for setbacks, learn from them and adapt to changes.
+5. Don't be hard on yourself & keep room for celebration of your successes.
+6. Surround yourself with people who are radiators , not drainers!
+7. Make changes to you surrounding so that you feel stimulated when you work. Pay attention to lighting conditions, surrounding colors & the air you breathe.
+8. Practicing mindfulness and self-awareness: being attentive to your goals, thoughts, emotions, and behaviors, which enables to identify areas that need growth and facilitate long-term transformation. 
+
+The overall concept of Kaizen is not something you become expert of in a day. It will grow in you once you stick to the very basic point (no.1) and the rest are kind to intuitive.
+
+### 6. The Psychology of Money
+
+#### no ones's crazy
+few people make financial decisions purely with a spreadsheet. they make them at diner table or in a company meeting.
+
+#### Luck & Risk
+#### Never Enough
+#### Confounding Compounding
+#### Getting Wealthy vs. Staying Wealthy
+#### Tails, You Win
+#### Freedom
+#### Man in the Car Paradox
+#### Save Money
 
 #### Author(s) : Morgan Housel
+
